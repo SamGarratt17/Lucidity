@@ -1,0 +1,6 @@
+// 1.20.1	2024-12-08T00:31:19.2180788	Lucidity/Model Definitions
+cc79ddc8fc11994fb2b20a1c0ba292d96ac8e872 assets\lucidity\models\item\lucidia.json
+ec04907796d7f5fee22051f9ac57697d3a925d13 assets\lucidity\models\block\potted_lucidia.json
+28bbb8da82efbc4e92a82815af502157df9230ce assets\lucidity\models\block\lucidia.json
+17b08a049318a7cdc8e6bb88d5c1e52be2949097 assets\lucidity\blockstates\potted_lucidia.json
+fdee9fbc17b9c097927e68228af84be7091aad99 assets\lucidity\blockstates\lucidia.json

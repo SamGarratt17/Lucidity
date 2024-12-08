@@ -1,0 +1,14 @@
+{
+  "targets": [
+    "minecraft:main"
+  ],
+  "passes": [
+    {
+      "name": "chromatic_aberration",
+      "intarget": "minecraft:main",
+      "outtarget": "minecraft:main",
+      "auxtargets": [],
+      "uniforms": []
+    }
+  ]
+}
